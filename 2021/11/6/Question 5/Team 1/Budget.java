@@ -1,4 +1,4 @@
-// MATH DIDN'T WORK; 0 pts
+// FULL SCORE; 60 PTS
 import java.util.*;
 import java.nio.*;
 import java.io.*;
