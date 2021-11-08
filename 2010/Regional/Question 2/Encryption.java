@@ -15,7 +15,7 @@ public class Encryption {
         ArrayList<String> encryptedCards = new ArrayList<String>();
        
         // READ THE FILE
-        File file = new File("encryption.dat");
+        File file = new File("2010/Regional/Question 2/encryption.dat");
         Scanner readSc = new Scanner(file);
 
         while (readSc.hasNextLine()) {

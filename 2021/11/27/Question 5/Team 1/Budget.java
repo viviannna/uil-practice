@@ -13,7 +13,7 @@ public class Budget {
     public static void main(String[] args) {
         ArrayList<String> allData = new ArrayList<String>();
 
-        Path inputFile =  Paths.get("budget.dat");
+        Path inputFile =  Paths.get("2021/11/27/Question 5/budget.dat");
 
         try (Stream <String> stream = Files.lines(inputFile)) {
             stream.forEach(line -> {

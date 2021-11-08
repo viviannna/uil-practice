@@ -20,7 +20,7 @@ public class Flag {
 
         ArrayList<String> allData = new ArrayList<String>();
 
-        Path inputFile =  Paths.get("flag.dat");
+        Path inputFile =  Paths.get("2021/11/27/Question 2/flag.dat");
 
         try (Stream <String> stream = Files.lines(inputFile)) {
             stream.forEach(line -> {
