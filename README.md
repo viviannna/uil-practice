@@ -5,4 +5,4 @@ and if they've been solved, the solution java file.
 
 TO UPLOAD:
 - you can either just upload the folders directly (make sure to upload folders NOT files and that they're named with the year of competition, date, and level) OR
-- you can clone them + push changes (a little harder, and not necessary since we're not collaborating)
+- you can clone them + push changes (a little harder and not necessary since we're not collaborating)
