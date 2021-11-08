@@ -1,1 +1,0 @@
-I don't think folder names can have / because that messes up the folder heirarchy.
