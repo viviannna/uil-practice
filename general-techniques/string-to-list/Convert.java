@@ -1,3 +1,13 @@
+/*
+
+good for when you are reading lists -- ensures that double digit numbers are not split
+(you may also have to clean it up to remove the {} and anything other attached)
+
+
+
+*/
+
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
